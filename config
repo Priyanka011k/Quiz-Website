@@ -15,3 +15,6 @@
 [remote "Priyanka011k"]
 	url = https://github.com/Priyanka011k/Priyanka011k.git
 	fetch = +refs/heads/*:refs/remotes/Priyanka011k/*
+[remote "Calculator"]
+	url = https://github.com/andrewagain/calculator.git
+	fetch = +refs/heads/*:refs/remotes/Calculator/*
